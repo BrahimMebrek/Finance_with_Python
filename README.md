@@ -1,4 +1,14 @@
 # Finance with Python
+
+## Financial Analysis
+This notebook contains :
+- An automation of the financial data gathering process using the **Financial Modeling Prep API**.
+- An example of the financial analysis of **Apple** through a Waterfall Chart.
+
+### Ressources
+- Financial Modeling Prep API Documentation : https://financialmodelingprep.com/developer/docs/
+- Plotly financial charts : https://plotly.com/python/financial-charts/
+
 ## Stock Market
 ### 1 / Data Gathering and Preparation
 This notebook is the first part of our Finance with Python study. 
