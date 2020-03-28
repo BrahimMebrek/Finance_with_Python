@@ -1,8 +1,11 @@
 # Finance with Python
 
+## Financial Analysis
+
 ### The visualizations are interactive, make sure to use a **nbviewer** ! 
 
-## Financial Analysis
+![nbviewer](nbviewer.jpg)
+
 This notebook contains :
 - An automation of the financial data gathering process using the **Financial Modeling Prep API**.
 - An example of the financial analysis of **IBM**, and a visiualization through a **Plotly** Waterfall Chart.
