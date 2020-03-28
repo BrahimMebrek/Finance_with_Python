@@ -14,12 +14,18 @@ This notebook contains :
 ### Ressources
 - Financial Modeling Prep API Documentation : https://financialmodelingprep.com/developer/docs/
 - Plotly financial charts : https://plotly.com/python/financial-charts/
+- Financial Definitions :
+  - https://www.investopedia.com/terms/f/financial-statements.asp
+  - https://www.investopedia.com/terms/i/incomestatement.asp
+  - https://www.investopedia.com/terms/q/quarter.asp
+  - https://en.wikipedia.org/wiki/Ticker_symbol
+- The main Resources :
+  - https://www.thebalance.com/investing-lesson-4-income-statement-analysis-357580
+  - https://www.accountingtools.com/articles/income-statement-analysis.html
 
 ## Stock Market
 ### 1 / Data Gathering and Preparation
-This notebook is the first part of our Finance with Python study. 
-
-It contains an automation of the data gathering process by :
+This notebook contains an automation of the data gathering process by :
 - Scrapping the tickers symbols of the **S&P 500 index** companies.
 - Gathering the Stock prices of these companies using the **Yahoo! Finance API**.
 - Merging the Adjacent Closing Price of each companie into one dataset.
