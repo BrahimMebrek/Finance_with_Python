@@ -8,20 +8,20 @@ https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/41e6425955b
 
 This notebook contains :
 - An automation of the financial data gathering process using the **Financial Modeling Prep API**.
-- An example of the financial analysis of **IBM**, and a visiualization through a **Plotly** Waterfall Chart.
-
+- An Income Statement analysis of **IBM**, with visiualizations using **Plotly**.
 
 ### Ressources
-- Financial Modeling Prep API Documentation : https://financialmodelingprep.com/developer/docs/
+- Financial Modeling Prep API Documentation : https://financialmodelingprep.com/developer/docs/ 
 - Plotly financial charts : https://plotly.com/python/financial-charts/
-- Financial Definitions :
-  - https://www.investopedia.com/terms/f/financial-statements.asp
-  - https://www.investopedia.com/terms/i/incomestatement.asp
-  - https://www.investopedia.com/terms/q/quarter.asp
-  - https://en.wikipedia.org/wiki/Ticker_symbol
-- The main Resources :
-  - https://www.thebalance.com/investing-lesson-4-income-statement-analysis-357580
-  - https://www.accountingtools.com/articles/income-statement-analysis.html
+- IBM financial analysis : https://www.researchgate.net/publication/309533206_Financial_Analysis_of_IBM
+- Financial Definitions : 
+    - https://www.investopedia.com/
+    - https://en.wikipedia.org/wiki/Ticker_symbol
+
+- The main Resources :   
+    - https://www.thebalance.com/investing-lesson-4-income-statement-analysis-357580
+    - https://www.accountingtools.com/articles/income-statement-analysis.html
+    - https://codingandfun.com/
 
 ## Stock Market
 ### 1 / Data Gathering and Preparation
