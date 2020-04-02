@@ -3,7 +3,9 @@
 ## Financial Analysis
 
 ### The visualizations are interactive, make sure to use a **nbviewer** !
-https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/41e6425955b566960967561a12995fc3e9edbad7/Financial_Analysis.ipynb Or
+https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/c555842bc91598878c2cdff25eb8a3d40092e190/Financial_Analysis.ipynb
+
+Or
 ![nbviewer](nbviewer.jpg)
 
 This notebook contains :
