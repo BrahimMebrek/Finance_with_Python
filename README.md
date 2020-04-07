@@ -28,8 +28,8 @@ This notebook contains :
 ## Stock Market
 
 ### 1 / Basic Stock Data Manipulation
-### The visualizations are interactive, make sure to use a **nbviewer** !
-https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/e878f4b5e9f7c62845aaef56d05a43f6ed1e4431/Stock_Market/Basic_Stock_Data_Manipulation.ipynb
+### The visualizations are interactive, make sure to use a **nbviewer** ! 
+https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/e878f4b5e9f7c62845aaef56d05a43f6ed1e4431/Stock_Market/Basic_Stock_Data_Manipulation.ipynb <br><br>
 This notebook is the first part of our Stock Data Manipulation Study. It contains:
 - Some key financial definitions.
 - Stock Market data gathering using the Yahoo Financial API!.
@@ -49,7 +49,9 @@ This notebook contains an automation of the data gathering process by :
 - Computer Science YouTube video Python for Finance : https://www.youtube.com/watch?v=O-O1WclwXck
 - Financial Python : https://www.quantconnect.com/tutorials/introduction-to-financial-python/rate-of-return,-mean-and-variance
 - Yahoo Finance API to get Stocks tickers data in python : https://medium.com/@jouneidraza522/yahoo-finance-api-to-get-stocks-tickers-data-in-python-c49820249a18
-- Most of the methodes and techniques used in the study are from the excellent - Sentdex YouTube Playlist, Python Programming for Finance : https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ
+
+- The main resource:
+    - Most of the methodes and techniques used in the study are from the excellent - Sentdex YouTube Playlist, Python Programming for Finance : https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ
 
 
 #### Created By MEBREK Brahim
