@@ -26,7 +26,17 @@ This notebook contains :
     - https://codingandfun.com/
 
 ## Stock Market
-### 1 / Data Gathering and Preparation
+
+### 1 / Basic Stock Data Manipulation
+### The visualizations are interactive, make sure to use a **nbviewer** !
+https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/e878f4b5e9f7c62845aaef56d05a43f6ed1e4431/Stock_Market/Basic_Stock_Data_Manipulation.ipynb
+This notebook is the first part of our Stock Data Manipulation Study. It contains:
+- Some key financial definitions.
+- Stock Market data gathering using the Yahoo Financial API!.
+- Visualizations of the gathered data using Plotly.
+- Some basic manipulation techniques (Moving Average, Resampling and Portfolio creation)
+
+### 2 / Stock Data Gathering and Preparation
 This notebook contains an automation of the data gathering process by :
 - Scrapping the tickers symbols of the **S&P 500 index** companies.
 - Gathering the Stock prices of these companies using the **Yahoo! Finance API**.
