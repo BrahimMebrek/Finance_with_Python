@@ -32,8 +32,8 @@ This notebook contains :
 https://nbviewer.jupyter.org/github/BrahimMebrek/Finance_Python/blob/e878f4b5e9f7c62845aaef56d05a43f6ed1e4431/Stock_Market/Basic_Stock_Data_Manipulation.ipynb <br><br>
 This notebook is the first part of our Stock Data Manipulation Study. It contains:
 - Some key financial definitions.
-- Stock Market data gathering using the Yahoo Financial API!.
-- Visualizations of the gathered data using Plotly.
+- Stock Market data gathering using the **Yahoo! Financial API**.
+- Visualizations of the gathered data using **Plotly**.
 - Some basic manipulation techniques (Moving Average, Resampling and Portfolio creation)
 
 ### 2 / Stock Data Gathering and Preparation
